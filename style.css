@@ -1,0 +1,140 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+* {
+  
+  box-sizing: border-box;
+  
+ 
+ color: #777;
+ 
+}
+
+html.body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+
+.section-header {
+  font-family: 'roboto', sans-serif;
+  font-weight: normal;
+  color: #999;
+  text-align: center;
+  font-size: 1.5em;
+
+}
+
+.p {
+  font-family: 'Roboto', sans-serif;
+  color: #777;
+  
+}
+
+
+.about-img{
+  float: left;
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+  border-radius: 45%;
+}
+
+
+.head {
+ background-color: whitesmoke;
+
+
+}
+
+.logo {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.4em;
+  font-family: 'Roboto', sans-serif;
+  color: #777;
+}
+
+.navigation a {
+  float: right;
+  text-decoration: none;
+  padding-right: 5px;}
+   
+   
+
+
+
+.navigation {
+  float: right;
+  font-size: 1em;
+  font-weight: 500px;
+  background-color: none;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.footer {
+  background-color: #000016;
+  color: #fff;
+  padding: 0.2em;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 3%;
+  font-size: 0.8em;
+}
+
+.web { 
+  font-family: 'roboto', sans-serif;
+  font-weight: normal;
+  color: #999;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.div-html{
+    font-family: 'Roboto', sans-serif;
+  color: #777;
+  
+  
+}
+.html-img{
+  float: left;
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+  border-radius: 10%;
+  
+}
+.lee {
+  font-family: 'Roboto', sans-serif;
+  color: #777;
+}
+.history  {
+ font-family: 'Roboto', sans-serif;
+  color: #777;
+  font-family: 'roboto', sans-serif;
+  font-weight: normal;
+  color: #999;
+  text-align: center;
+  }
+
+.tim-lee {
+  float: left;
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+  border-radius: 5%;
+}
+.link {
+ float: right;
+ height: 50px;
+ font-weight: 50px;
+ font-size: 18px;
+}
